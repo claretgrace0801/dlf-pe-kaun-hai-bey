@@ -1,2 +1,7 @@
-# dlf-pe-kaun-hai-bey
-Ug2k19 hackathon
+# DLF-pe-kaun-hai-be
+<h6 style="text-align: right;"> By :- <em>Aman Rojjha</em></h6>
+
+## Ug2k19 Hackathon
+#### Requirements
+- Login/Signup
+- 
